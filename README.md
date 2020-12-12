@@ -1,10 +1,12 @@
 # api-dotnet-mongo-dio
 
-Exemplo de aplicação .net core com mongodb.
+api criada usando o .net core e o mongodb como banco de dados.
 
 Para teste:
 
 https://localhost:5001/infectado
+
+modelo dos dados no mongodb.
 
 ```json
 {
